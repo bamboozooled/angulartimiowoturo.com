@@ -1,0 +1,25 @@
+mat-toolbar{
+    background-color: #3795BF;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+  }
+  
+  footer{
+    background-color: #3795BF;
+    color: white;
+    position:absolute;
+    margin:0;
+    padding:0;
+    bottom:0;
+    left:0;
+    width:100%;
+}
+
+#icon{
+    height: 5vh;
+    width: 5vh;
+}
